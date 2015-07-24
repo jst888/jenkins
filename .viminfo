@@ -24,17 +24,20 @@
 	/
 
 # File marks:
-'0  1  4  ~/README.md
-'1  8  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
-'2  20  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/BankAccount.java
-'3  2  15  /etc/apache2/sites-available/jenkins.conf
-'4  1  0  /etc/apache2/sites-available/jenkins.conf
-'5  5  0  /etc/apache2/sites-available/000-default.conf
-'6  1  0  /etc/apache2/sites-available/000-default.conf
-'7  1  0  /etc/apache2/sites-available/default-ssl.conf
-'8  10  13  /etc/apache2/sites-available/jenkins.conf
+'0  2  0  ~/test.read
+'1  1  4  ~/README.md
+'2  8  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
+'3  20  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/BankAccount.java
+'4  2  15  /etc/apache2/sites-available/jenkins.conf
+'5  1  0  /etc/apache2/sites-available/jenkins.conf
+'6  5  0  /etc/apache2/sites-available/000-default.conf
+'7  1  0  /etc/apache2/sites-available/000-default.conf
+'8  1  0  /etc/apache2/sites-available/default-ssl.conf
+'9  10  13  /etc/apache2/sites-available/jenkins.conf
 
 # Jumplist (newest first):
+-'  2  0  ~/test.read
+-'  1  0  ~/test.read
 -'  1  4  ~/README.md
 -'  8  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
 -'  1  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
@@ -134,6 +137,12 @@
 -'  1  0  /etc/apache2/sites-available/default-ssl.conf
 
 # History of marks within files (newest to oldest):
+
+> ~/test.read
+	"	2	0
+	^	2	0
+	.	1	5
+	+	1	5
 
 > ~/README.md
 	"	1	4
