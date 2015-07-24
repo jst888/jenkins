@@ -24,7 +24,7 @@
 	/
 
 # File marks:
-'0  1  8  ~/README.md
+'0  1  4  ~/README.md
 '1  8  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
 '2  20  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/BankAccount.java
 '3  2  15  /etc/apache2/sites-available/jenkins.conf
@@ -35,7 +35,7 @@
 '8  10  13  /etc/apache2/sites-available/jenkins.conf
 
 # Jumplist (newest first):
--'  1  8  ~/README.md
+-'  1  4  ~/README.md
 -'  8  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
 -'  1  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
 -'  20  0  ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/BankAccount.java
@@ -132,15 +132,14 @@
 -'  1  0  /etc/apache2/sites-available/default-ssl.conf
 -'  1  0  /etc/apache2/sites-available/default-ssl.conf
 -'  1  0  /etc/apache2/sites-available/default-ssl.conf
--'  5  0  /etc/apache2/sites-available/000-default.conf
 
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	"	1	8
-	^	1	9
-	.	1	8
-	+	1	8
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/source/main/java/ca/uwo/csd/cs2212/jshantz4/TestBankAccount.java
 	"	8	0
